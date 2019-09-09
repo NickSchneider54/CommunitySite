@@ -1,9 +1,9 @@
 # CommunitySite
 
-Members:
+# Members:
 Allen, Nhat, Caleb, Nick
 
-Pages Assigned:
+# Pages Assigned:
 Allen
 Nhat
 Caleb
