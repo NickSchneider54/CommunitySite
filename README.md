@@ -8,7 +8,7 @@ SS&B Heating and cooling
 https://www.ssbhc.com/
 
 # Pages Assigned:
-Allen:
-Nhat:
-Caleb:
-Nick:
+Allen: about us
+Nhat: Services
+Caleb: Products
+Nick: homepage
