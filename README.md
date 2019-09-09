@@ -4,7 +4,7 @@
 Allen, Nhat, Caleb, Nick
 
 # Pages Assigned:
-Allen
-Nhat
-Caleb
-Nick
+Allen:
+Nhat:
+Caleb:
+Nick:
