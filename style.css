@@ -1,14 +1,15 @@
+
 /*****
-
 Team Members:
-Caleb Whitlow, Allen Folz, Nhat Le
-
+Caleb Whitlow, Allen Folz, Nhat Le, Nick Schneider
 ******/
 
 html {
     background-color: blue;
+    scroll-behavior: smooth;
 }
 
 body {
     background-color: red; 
 }
+
