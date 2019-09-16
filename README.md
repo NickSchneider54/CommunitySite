@@ -19,3 +19,5 @@ Nick: homepage
 https://wireframe.cc/ehu1oX
 # Events Page: 
 https://wireframe.cc/2xxe0s
+# AboutUs page:
+https://wireframe.cc/3AE3ub
