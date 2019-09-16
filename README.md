@@ -14,4 +14,5 @@ Caleb: Products
 Nick: homepage
 
 # wireframes
-https://wireframe.cc/2xxe0s
+Homepage: https://wireframe.cc/ehu1oX
+Events Page: https://wireframe.cc/2xxe0s
