@@ -12,3 +12,6 @@ Allen: about us
 Nhat: Services
 Caleb: Products
 Nick: homepage
+
+# wireframes
+https://wireframe.cc/2xxe0s
