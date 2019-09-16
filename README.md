@@ -13,6 +13,9 @@ Nhat: Services
 Caleb: Products
 Nick: homepage
 
-# wireframes
-Homepage: https://wireframe.cc/ehu1oX
-Events Page: https://wireframe.cc/2xxe0s
+# Wireframes
+
+# Homepage: 
+https://wireframe.cc/ehu1oX
+# Events Page: 
+https://wireframe.cc/2xxe0s
