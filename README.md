@@ -4,7 +4,7 @@
 Allen, Nhat, Caleb, Nick
 
 # Business
-Gamesmaster
+Gamemaster
 No Website
 
 # Pages Assigned:
