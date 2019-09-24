@@ -4,8 +4,8 @@
 Allen, Nhat, Caleb, Nick
 
 # Business
-SS&B Heating and cooling
-https://www.ssbhc.com/
+Gamesmaster
+No Website
 
 # Pages Assigned:
 Allen: about us
