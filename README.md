@@ -3,21 +3,11 @@
 # Members:
 Allen, Nhat, Caleb, Nick
 
-# Business
-Gamemaster
-No Website
-
 # Pages Assigned:
-Allen: about us
-Nhat: Services
-Caleb: Products
-Nick: homepage
+Allen
+Nhat
+Caleb
+Nick
 
-# Wireframes
-
-# Homepage: 
-https://wireframe.cc/ehu1oX
-# Events Page: 
-https://wireframe.cc/2xxe0s
-# AboutUs page:
-https://wireframe.cc/3AE3ub
+# Bootstrap Link
+https://getbootstrap.com/docs/4.0/getting-started/introduction/

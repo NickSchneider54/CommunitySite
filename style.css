@@ -4,16 +4,55 @@ Team Members:
 Caleb Whitlow, Allen Folz, Nhat Le, Nick Schneider
 ******/
 
+/******************************* General Tags Styling *******************************/
 html {
-    background-color: yellow;
     scroll-behavior: smooth;
 }
 
 body {
-    background-color: green; 
+    background-color:black; 
 }
 
-a {
-    color: blue;
+/******************************* Navigation *******************************/
+nav{
+    background-color: white;
 }
 
+.nav-link{
+    color: black;
+}
+
+/******************************* Landing/Homepage Header *******************************/
+.landing{
+    background-image: url("logo.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    min-height: 20vw;
+}
+
+/******************************* Page *******************************/
+.page{
+    width: 80%;
+    min-height: 50vw;
+    margin: auto;
+    margin-top: 4vw;
+    margin-bottom: 4vw;
+    padding: 50px;
+    background-color: darkgrey;
+}
+
+/******************** Content ********************/
+.content{
+    
+}
+
+/******************************* Footer *******************************/
+.page-footer{
+    background-color: red;
+    color: white;
+}
+
+.page-footer a{
+    color: white;
+}
