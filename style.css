@@ -24,7 +24,7 @@ nav{
 
 /******************************* Landing/Homepage Header *******************************/
 .landing{
-    background-image: url("logo.jpg");
+    background-image: url("Images/logo.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
