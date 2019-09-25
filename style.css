@@ -34,7 +34,7 @@ nav{
 /******************************* Page *******************************/
 .page{
     width: 80%;
-    min-height: 50vw;
+    min-height: 50vw; /* vw =view window */
     margin: auto;
     margin-top: 4vw;
     margin-bottom: 4vw;
