@@ -47,6 +47,15 @@ nav{
     
 }
 
+/******************************* Modal *******************************/
+.modal-body{
+    padding: auto 50px;
+}
+
+.modal-body h7{
+    margin-bottom: 20px;
+}
+
 /******************************* Footer *******************************/
 .page-footer{
     background-color: red;
