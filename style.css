@@ -48,12 +48,18 @@ nav{
 }
 
 /******************************* Modal *******************************/
+.modal-title{
+    color: black;
+}
+
 .modal-body{
     padding: auto 50px;
+    color: black;
 }
 
 .modal-body h7{
     margin-bottom: 20px;
+    color: black;
 }
 
 /******************************* Footer *******************************/
@@ -64,4 +70,12 @@ nav{
 
 .page-footer a{
     color: white;
+}
+
+/******************************* MTG Products Page *******************************/
+#mtg-banner{
+    background-image: url("Images/Magic1.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
 }
