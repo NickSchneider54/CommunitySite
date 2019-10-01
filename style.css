@@ -10,16 +10,16 @@ html {
 }
 
 body {
-    background-color:black; 
+    background-color:white; 
 }
 
 /******************************* Navigation *******************************/
 nav{
-    background-color: white;
+    background-color: black;
 }
 
 .nav-link{
-    color: black;
+    color: white;
 }
 
 /******************************* Landing/Homepage Header *******************************/
@@ -36,8 +36,8 @@ nav{
     width: 80%;
     min-height: 50vw; /* vw =view window */
     margin: auto;
-    margin-top: 4vw;
-    margin-bottom: 4vw;
+    margin-top: 1vw;
+    margin-bottom: 2vw;
     padding: 50px;
     background-color: darkgrey;
 }
@@ -73,9 +73,19 @@ nav{
 }
 
 /******************************* MTG Products Page *******************************/
-#mtg-banner{
-    background-image: url("Images/Magic1.jpg");
+#mtg-page{
+    background-image: url("Images/magic-walkers.jpg");
     background-size: cover;
     background-repeat: no-repeat;
-    background-position: center;
+    background-position: center center; 
+    width: 100%;
+}
+
+
+#mtg-banner{
+    background-image: url("Images/magic-walkers.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    min-height: 22vw;
 }
