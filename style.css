@@ -13,9 +13,30 @@ body {
     background-color:white; 
 }
 
+/******************************* Contact Banner *******************************/
+.contact-banner{
+    background-color: grey;
+    color: white;
+    width: 100%;
+    padding-left: 150px;
+    top: 0;
+    position: fixed;
+    height: 25px;
+}
+
+.contact-banner a{
+    color: white;
+}
+
+.contact-banner i{
+    margin-left: 10px;
+}
+
 /******************************* Navigation *******************************/
 nav{
     background-color: black;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, .5);
+    margin-top: 25px;
 }
 
 .nav-link{
@@ -24,11 +45,12 @@ nav{
 
 /******************************* Landing/Homepage Header *******************************/
 .landing{
-    background-image: url("Images/logo.jpg");
+    background-image: url("Images/logo-size-fix2.jpg");
     background-size: cover;
     background-repeat: no-repeat;
-    background-position: center;
-    min-height: 20vw;
+    background-position: center center;
+    min-height: 20vw;  
+    margin-top: 84px;
 }
 
 /******************************* Page *******************************/
@@ -64,7 +86,7 @@ nav{
 
 /******************************* Footer *******************************/
 .page-footer{
-    background-color: red;
+    background-color: black;
     color: white;
 }
 
@@ -79,6 +101,7 @@ nav{
     background-repeat: no-repeat;
     background-position: center center; 
     width: 100%;
+    margin: auto;
 }
 
 
@@ -88,4 +111,47 @@ nav{
     background-repeat: no-repeat;
     background-position: center center;
     min-height: 22vw;
+}
+
+#mtg-pageInfo{
+    background-color: white;
+    padding: 40px;
+    min-height: 50vw;
+}
+
+/******************************* Carousel *******************************/
+.carousel{
+    max-width: 90%;
+    margin: auto;
+}
+
+.carousel-inner{
+    height: 400px;
+}
+
+.carousel-item h2{
+    text-align: right;
+    margin-right: 440px;
+}
+
+.carousel-img{
+    width: 100%;
+}
+
+.carousel-indicators li{
+    background-color: black;
+}
+
+/************************* Carousel Card *************************/
+.card{
+    border: none;
+}
+
+.card-title{
+    margin-left: 20px;
+}
+
+.card-text{
+    width: 80%;
+    margin-left: 40px;
 }
