@@ -85,6 +85,19 @@ nav{
     color: black;
 }
 
+/**************************** Modal Button ****************************/
+.btn-primary{
+    background-color: red;
+    outline-color: black;
+    border-color: black;
+}
+
+.btn-primary:hover{
+    background-color: grey;
+    outline-color: black;
+    border-color: black;
+}
+
 /******************************* Footer *******************************/
 .page-footer{
     background-color: black;
